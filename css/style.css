@@ -1,21 +1,15 @@
+
 .img-fluid
 {
   max-width: 100%;
   height: auto;
   width: 1800px;
   margin-bottom: 30px;
-  margin-top: 50px;
+  margin-top: 72px;
 }
 #imageP2
 {
   width: 189px;
-}
-p
-{
-  font-size: 25px;
-     font-family: "Imperial Script", cursive;
-  font-weight: 400;
-  font-style: normal;
 }
 section{
   background-color: #D8BFD8;
@@ -23,27 +17,37 @@ section{
 .RX
 {
   background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #800080;
 }
 .navbar-brand
 {
-    font-family: "Imperial Script", cursive;
-  font-weight: 400;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 300;
+  font-size: 30px;
+  color: #800080;
+}
+p
+{
+  font-family: 'Times New Roman', Times, serif;
   font-style: normal;
+  font-size: 20px;
 }
 h2
 {
-     font-family: "Imperial Script", cursive;
-  font-weight: 400;
-  font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+     font-weight: 300;
+  font-size: 35px;
+
 }
 a.btn:hover
-{
+{font-family: 'Times New Roman', Times, serif;
   background-color: #800080;
   border-color: #800080;
   color: white;
 }
 a.btn:after
-{
+{font-family: 'Times New Roman', Times, serif;
   background-color: #800080;
   border-color: #800080;
   color: white;
