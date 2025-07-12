@@ -1,8 +1,10 @@
-#imageP
+.img-fluid
 {
-  margin-top: 5px;
-  width: 1700px;
+  max-width: 100%;
+  height: auto;
+  width: 1800px;
   margin-bottom: 30px;
+  margin-top: 50px;
 }
 #imageP2
 {
@@ -10,12 +12,40 @@
 }
 p
 {
-  font-size: 30px;
+  font-size: 25px;
+     font-family: "Imperial Script", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 section{
-  background-color: #008080;
+  background-color: #D8BFD8;
 }
 .RX
 {
   background-color: white;
 }
+.navbar-brand
+{
+    font-family: "Imperial Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+h2
+{
+     font-family: "Imperial Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+a.btn:hover
+{
+  background-color: #800080;
+  border-color: #800080;
+  color: white;
+}
+a.btn:after
+{
+  background-color: #800080;
+  border-color: #800080;
+  color: white;
+}
+
